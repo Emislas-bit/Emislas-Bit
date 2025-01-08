@@ -7,7 +7,7 @@ con la logística (también de paso mover mi perfil en <b>GitHub</b>)
 
 ---
 
-<h3 align='left'>⚙️ Herramientas que manejo y de las que podemos hablar:</h3>
+<h3 align='left'>Herramientas que manejo y de las que podemos hablar:</h3>
 <p align='left'>
 Power BI, SQL, Python, DAX, Excel, Azure Data Factory, Azure Synapse, entre otras.. (nunca paramos de aprender en verdad)
 </p>
