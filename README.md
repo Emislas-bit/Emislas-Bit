@@ -1,6 +1,6 @@
-<h1 align='center'>¡Hola! 👋</h1>
+<h2 align='center'>¡Hola! 👋</h2>
 <p align='center'>
-Emiliano por aquí, soy tecnólogo en logística (casi ing) y actualmente me desempeño como analista de integración. <br>
+Emiliano por aquí, soy tecnólogo en logística y actualmente me desempeño como analista de integración. <br>
 Ya con años de experiencia en el mundo de Power Bi, este año me propuse orientarme a la ingeniería de datos y con ello, <br>
 a optimizar y mover más mi perfil en <b>GitHub</b>
 </p>
