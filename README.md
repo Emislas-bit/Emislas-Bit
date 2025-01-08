@@ -26,5 +26,6 @@ Power BI, SQL, Python, DAX, Excel, Azure Data Factory, Azure Synapse, entre otra
 </p>
 
 <p align='left'>
-Te dejo mi <a href="https://www.linkedin.com/in/e-islasrivero/">LinkedIn</a>. Sentite libre de explorar mis projectos!
+Te dejo mi <a href="https://www.linkedin.com/in/e-islasrivero/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>. ¡Sentite libre de explorar mis proyectos!
 </p>
