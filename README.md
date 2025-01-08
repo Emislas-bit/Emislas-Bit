@@ -13,19 +13,20 @@
 </div>
 <h3 align='left'>Hola!👋, bienvenid@</h3>
 <p align='left'>
-Te cuento un poco sobre mí, soy formado como tecnólogo en logística y actualmente me desempeño como analista de integración. <br>
+Te cuento un poco sobre mí, soy formado como Tecnólogo en logística y actualmente me desempeño como Analista de integración. <br>
 Ya con experiencia en el mundo de Bi, este año me propuse orientarme a la ingeniería de datos y mostrar su relación <br>
-con la logística (también de paso mover mi perfil en <b>GitHub</b>)
+con la logística (también de paso mover mi perfil en GitHub)
 </p>
 
 ---
 
 <h3 align='left'>Herramientas que manejo y de las que podemos hablar:</h3>
 <p align='left'>
-Power BI, SQL, Python, DAX, Excel, Azure Data Factory, Azure Synapse, entre otras.. (nunca paramos de aprender en verdad)
+Power BI, SQL, Python, DAX, Excel, Azure Data Factory, Azure Synapse, entre otras.. (<b>nunca paramos de aprender</b>)
 </p>
 
 <p align='left'>
-Te dejo mi <a href="https://www.linkedin.com/in/e-islasrivero/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>. ¡Sentite libre de explorar mis proyectos!
+¡Sentite libre de explorar mis proyectos! <br><br>
+Por aquí mi <a href="https://www.linkedin.com/in/e-islasrivero/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
 </p>
