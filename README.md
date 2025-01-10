@@ -27,6 +27,6 @@ Power BI, SQL, Tabular Editor, DAX, Excel, Azure Data Factory, Azure Synapse, en
 
 <p align='left'>
 ¡Espero que mis proyectos te aporten conocimiento! <br><br>
-Conecta conmigo en <a href="https://www.linkedin.com/in/e-islasrivero/" target="_blank">
+Mi LinkedIn <a href="https://www.linkedin.com/in/e-islasrivero/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
 </p>
