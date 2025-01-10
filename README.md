@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/25064410-64e4-4c93-8ec5-e1db7d421f44" height="75" alt="Tabular logo"  />
-  <img width="12" />
   <img src="https://github.com/user-attachments/assets/e3d65a87-3c58-482c-8899-54cf40460cac" height="90" alt="Power Bi Certified"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/58d19e39-7944-4030-a8e0-c7903a8b4814" height="90" alt="Azure AI Cert"  />
