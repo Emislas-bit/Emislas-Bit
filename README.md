@@ -14,10 +14,9 @@
 
 <h3 align='left'>Hello, welcome! 👋</h3>
 <p align='left'>
-About me: I have a degree in Logistics Technology and currently work as an Integration Analyst. <br>
-With experience in the BI world, this year I set a goal to focus on data model engineering/optimization <br>
-and showcase its relationship with logistics.
-</p>
+I'm a Logistics Technologist currently working as an Integration Analyst, where I bridge the gap between technology and business processes. With a strong background in Business Intelligence (BI), I am passionate about data-driven decision-making and its role in enhancing operational efficiency.
+
+This year, my goal is to specialize in data model engineering and optimization, focusing on how these skills can transform logistics and supply chain management. I aim to showcase how well-structured data models drive innovation, improve forecasting accuracy, and optimize resource allocation in the logistics sector.
 
 ---
 
